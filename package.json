@@ -1,19 +1,20 @@
 {
-  "name": "ogr2ogr",
-  "version": "3.1.0",
+  "name": "ogr2ogr-edit",
+  "version": "0.0.1",
   "description": "ogr2ogr wrapper w/ multiple format support",
   "keywords": [
     "ogr2ogr",
     "stream",
     "proj4",
-    "gdal"
+    "gdal",
+    "Al-Jezawi"
   ],
   "author": "Marc Harter <wavded@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/wavded/ogr2ogr.git"
+    "url": "https://github.com/abomoyad69/ogr2ogr-edit.git"
   },
-  "homepage": "http://github.com/wavded/ogr2ogr",
+  "homepage": "https://github.com/abomoyad69/ogr2ogr-edit",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -45,9 +46,6 @@
   },
   "engines": {
     "node": ">=12"
-  },
-  "bugs": {
-    "url": "https://github.com/wavded/ogr2ogr/issues"
   },
   "license": "ISC"
 }
